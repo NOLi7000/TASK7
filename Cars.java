@@ -6,7 +6,7 @@ class toyota {
 class wish extends toyota {
     void display() {
         super.displayCarColor();
-        System.out.println("wishh hass 7 seatt");
+        System.out.println("wishh hass 77 seatt");
     }
 }
 public class Cars {
