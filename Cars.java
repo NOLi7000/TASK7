@@ -1,6 +1,6 @@
 class toyota {
     final void displayCarColor() {
-        System.out.println("toyotaa cars have seats ");
+        System.out.println("toyotaa carss have seats ");
     }
 }
 class wish extends toyota {
